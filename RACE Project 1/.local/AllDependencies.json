@@ -5313,15 +5313,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Work\\.nuget\\packages\\": {}
+    "C:\\Users\\Endy Susanto\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RACE Project 1",
       "projectName": "RACE Project 1",
-      "projectPath": "C:\\Users\\Work\\Documents\\CSharpEssential\\GeBizTracking\\RACE Project 1\\.local",
-      "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Work\\Documents\\CSharpEssential\\GeBizTracking\\RACE Project 1\\.local"
+      "projectPath": "C:\\Users\\Endy Susanto\\Documents\\GitHub\\GeBizTracking\\RACE Project 1\\.local",
+      "packagesPath": "C:\\Users\\Endy Susanto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Endy Susanto\\Documents\\GitHub\\GeBizTracking\\RACE Project 1\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5347,7 +5347,7 @@
             "version": "[21.2.0-preview, 21.2.0-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Work\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Endy Susanto\\AppData\\Local\\UiPath\\app-21.2.0-beta0044\\runtime.json"
       }
     }
   }
